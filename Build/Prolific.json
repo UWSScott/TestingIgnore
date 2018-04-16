@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Prolific.data.unityweb",
+"asmCodeUrl": "Prolific.asm.code.unityweb",
+"asmMemoryUrl": "Prolific.asm.memory.unityweb",
+"asmFrameworkUrl": "Prolific.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
